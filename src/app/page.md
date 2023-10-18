@@ -2,111 +2,89 @@
 title: Getting started
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Discover how to set up Jarvis AI in your project in under thirty minutes or it's free. {% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing Jarvis AI." /%}
 
-{% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Architecture guide" icon="presets" href="/" description="Understand how Jarvis AI works internally and how you can contribute." /%}
 
-{% quick-link title="Plugins" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Plugins" icon="plugins" href="/" description="Enhance Jarvis AI with third-party plugins or create your own." /%}
 
 {% quick-link title="API reference" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
 
 {% /quick-links %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste.
+Jarvis AI is designed to make creating things with AI a seamless and enjoyable experience. Whether you're building a business website or generating a file, Jarvis AI is here to assist you.
 
 ---
 
 ## Quick start
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Jarvis AI is easy to use and can be set up in a few simple steps. Let's get started.
 
 ### Installing dependencies
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+To install Jarvis AI, you need to have Node.js installed on your system. Once you have Node.js, you can install Jarvis AI using npm.
 
 ```shell
-npm install @tailwindlabs/cache-advance
+npm install @jarvisai/jarvis
 ```
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout type="warning" title="Oh no! Something bad happened!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
+{% callout type="warning" title="Important!" %}
+Ensure that you have the correct version of Node.js installed on your system before installing Jarvis AI. For more information, check the [installation guide](/).
 {% /callout %}
 
-### Configuring the library
+### Configuring Jarvis AI
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Once Jarvis AI is installed, you can configure it to suit your needs.
 
 ```js
-// cache-advance.config.js
+// jarvis.config.js
 export default {
   strategy: 'predictive',
   engine: {
     cpus: 12,
-    backups: ['./storage/cache.wtf'],
+    backups: ['./storage/jarvis.wtf'],
   },
 }
 ```
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-{% callout title="You should know!" %}
-This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
+{% callout title="Tip!" %}
+You can customize Jarvis AI's configuration to optimize its performance based on your system's resources. For more information, check the [configuration guide](/).
 {% /callout %}
 
 ---
 
 ## Basic usage
 
-Praesentium laudantium magni. Consequatur reiciendis aliquid nihil iusto ut in et. Quisquam ut et aliquid occaecati. Culpa veniam aut et voluptates amet perspiciatis. Qui exercitationem in qui. Vel qui dignissimos sit quae distinctio.
+Jarvis AI is designed to be intuitive and easy to use. Here's how you can start using it.
 
-### Your first cache
+### Creating your first website
 
-Minima vel non iste debitis. Consequatur repudiandae et quod accusamus sit molestias consequatur aperiam. Et sequi ipsa eum voluptatibus ipsam. Et quisquam ut.
-
-Qui quae esse aspernatur fugit possimus. Quam sed molestiae temporibus. Eum perferendis dignissimos provident ea et. Et repudiandae quasi accusamus consequatur dolore nobis. Quia reiciendis necessitatibus a blanditiis iste quia. Ut quis et amet praesentium sapiente.
-
-Atque eos laudantium. Optio odit aspernatur consequuntur corporis soluta quidem sunt aut doloribus. Laudantium assumenda commodi.
+With Jarvis AI, creating a website is as easy as providing a brief description of what you want.
 
 ### Clearing the cache
 
-Vel aut velit sit dolor aut suscipit at veritatis voluptas. Laudantium tempore praesentium. Qui ut voluptatem.
-
-Ea est autem fugiat velit esse a alias earum. Dolore non amet soluta eos libero est. Consequatur qui aliquam qui odit eligendi ut impedit illo dignissimos.
-
-Ut dolore qui aut nam. Natus temporibus nisi voluptatum labore est ex error vel officia. Vero repellendus ut. Suscipit voluptate et placeat. Eius quo corporis ab et consequatur quisquam. Nihil officia facere dolorem occaecati alias deleniti deleniti in.
+Jarvis AI automatically manages its cache to ensure optimal performance. However, you can manually clear the cache if needed.
 
 ### Adding middleware
 
-Officia nobis tempora maiores id iusto magni reprehenderit velit. Quae dolores inventore molestiae perspiciatis aut. Quis sequi officia quasi rem officiis officiis. Nesciunt ut cupiditate. Sunt aliquid explicabo enim ipsa eum recusandae. Vitae sunt eligendi et non beatae minima aut.
-
-Harum perferendis aut qui quibusdam tempore laboriosam voluptatum qui sed. Amet error amet totam exercitationem aut corporis accusantium dolorum. Perspiciatis aut animi et. Sed unde error ut aut rerum.
-
-Ut quo libero aperiam mollitia est repudiandae quaerat corrupti explicabo. Voluptas accusantium sed et doloribus voluptatem fugiat a mollitia. Numquam est magnam dolorem asperiores fugiat. Soluta et fuga amet alias temporibus quasi velit. Laudantium voluptatum perspiciatis doloribus quasi facere. Eveniet deleniti veniam et quia veritatis minus veniam perspiciatis.
+You can extend Jarvis AI's functionality by adding middleware. This allows you to add custom functionality to Jarvis AI.
 
 ---
 
 ## Getting help
 
-Consequuntur et aut quisquam et qui consequatur eligendi. Necessitatibus dolorem sit. Excepturi cumque quibusdam soluta ullam rerum voluptatibus. Porro illo sequi consequatur nisi numquam nisi autem. Ut necessitatibus aut. Veniam ipsa voluptatem sed.
+If you encounter any issues while using Jarvis AI, we're here to help.
 
 ### Submit an issue
 
-Inventore et aut minus ut voluptatem nihil commodi doloribus consequatur. Facilis perferendis nihil sit aut aspernatur iure ut dolores et. Aspernatur odit dignissimos. Aut qui est sint sint.
-
-Facere aliquam qui. Dolorem officia ipsam adipisci qui molestiae. Error voluptatem reprehenderit ex.
-
-Consequatur enim quia maiores aperiam et ipsum dicta. Quam ut sit facere sit quae. Eligendi veritatis aut ut veritatis iste ut adipisci illo.
+If you encounter a bug or have a feature request, you can submit an issue on our GitHub page. We appreciate your feedback and strive to address all issues promptly.
 
 ### Join the community
 
-Praesentium facilis iste aliquid quo quia a excepturi. Fuga reprehenderit illo sequi voluptatem voluptatem omnis. Id quia consequatur rerum consectetur eligendi et omnis. Voluptates iusto labore possimus provident praesentium id vel harum quisquam. Voluptatem provident corrupti.
+Join our community of developers and AI enthusiasts. Share your experiences, ask questions, and learn from others. Together, we can make Jarvis AI even better.
 
-Eum et ut. Qui facilis est ipsa. Non facere quia sequi commodi autem. Dicta autem sit sequi omnis impedit. Eligendi amet dolorum magnam repudiandae in a.
-
-Molestiae iusto ut exercitationem dolorem unde iusto tempora atque nihil. Voluptatem velit facere laboriosam nobis ea. Consequatur rerum velit ipsum ipsam. Et qui saepe consequatur minima laborum tempore voluptatum et. Quia eveniet eaque sequi consequatur nihil eos.
+Jarvis AI is designed to make creating things with AI a seamless and enjoyable experience. Whether you're building a business website or generating a file, Jarvis AI is here to assist you.
