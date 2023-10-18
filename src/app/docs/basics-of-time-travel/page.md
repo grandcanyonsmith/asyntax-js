@@ -1,9 +1,9 @@
 ---
-title: Jarvis AI: Revolutionizing Web Development, Coding, and Documentation
+title: Architecture guide
 nextjs:
   metadata:
-    title: Jarvis AI: Revolutionizing Web Development, Coding, and Documentation
-    description: Jarvis AI, an innovative software that leverages artificial intelligence to assist in website building, coding, and document creation.
+    title: Architecture guide
+    description: Quidem magni aut exercitationem maxime rerum eos.
 ---
 
 Jarvis AI is a cutting-edge software that harnesses the power of artificial intelligence to simplify and enhance the process of website building, coding, and document creation. It is designed to cater to the needs of both beginners and professionals.
