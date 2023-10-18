@@ -56,5 +56,3 @@ Experience the power of artificial intelligence with Jarvis AI. Let it handle yo
 ### Jarvis AI: Your Partner in Success
 
 With Jarvis AI by your side, success is just a step away. It's time to embrace the future of work. It's time to experience Jarvis AI.
-
-#END
