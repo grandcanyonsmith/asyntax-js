@@ -1,22 +1,22 @@
 ---
-title: Architecture guide
+title: The "Are You Callin' Me a Liar?" Algorithm
 nextjs:
   metadata:
-    title: Architecture guide
-    description: Quidem magni aut exercitationem maxime rerum eos.
+    title: Unveiling the Truth in AI Generated Code
+    description: An innovative approach to handle non-existent file imports in AI-generated code.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+In the realm of artificial intelligence, one of the most intriguing and challenging aspects is AI's ability to generate code. However, this fascinating feature often encounters a recurring issue - the AI tends to import files that do not exist in the local repository. This can lead to confusion and potential errors in the codebase.
 
 ---
 
-## Quis vel iste dicta
+## The Problem: Phantom File Imports
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+AI's ability to write code is impressive, but it's not perfect. It often imports files, such as a 'styles.css' link, that do not exist in the local repository. This can lead to confusion and potential errors in the codebase. 
 
-### Et pariatur ab quas
+### The Solution: The "Are You Callin' Me a Liar?" Algorithm
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Instead of trying to prevent the AI from making these false imports, we developed an innovative algorithm that forces the AI to tell the truth after it lies. This algorithm, humorously named the "Are You Callin' Me a Liar?" algorithm, ensures that any file the AI tries to import is created in the local repository.
 
 ```js
 /** @type {import('@tailwindlabs/lorem').ipsum} */
@@ -29,46 +29,24 @@ export default {
 }
 ```
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+This approach not only solves the problem of non-existent file imports but also enhances the AI's ability to generate more accurate and reliable code.
 
-### Natus aspernatur iste
+### How It Works
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+The algorithm works by monitoring the AI's code generation process. When it detects an import statement for a non-existent file, it automatically creates that file in the local repository. This way, every import statement in the AI-generated code corresponds to an actual file, ensuring the integrity and accuracy of the codebase.
 
 ---
 
-## Quos porro ut molestiae
+## The Impact: More Reliable AI-Generated Code
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+The "Are You Callin' Me a Liar?" algorithm significantly improves the reliability of AI-generated code. It eliminates the confusion and potential errors caused by non-existent file imports, making the code easier to understand and debug.
 
-### Voluptatem quas possimus
+### Future Developments
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+We are continuously working on improving this algorithm and exploring other ways to enhance the accuracy and reliability of AI-generated code. Stay tuned for more updates and advancements in this exciting field.
 
 ---
 
-## Vitae laborum maiores
+## Conclusion
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+The "Are You Callin' Me a Liar?" algorithm is a testament to the innovative solutions that can be developed to address the challenges in AI-generated code. By forcing the AI to tell the truth after it lies, we can ensure the accuracy and reliability of the code it generates, paving the way for more advanced and reliable AI coding capabilities in the future.
