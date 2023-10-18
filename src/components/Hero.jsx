@@ -6,7 +6,7 @@ import { Highlight } from 'prism-react-renderer'
 import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
 import jarvisLogo from '@/images/blur-cyan.png'
-import jarvisBackground from '@@/images/blur-indigo.png'
+import jarvisBackground from '@/images/blur-indigo.png'
 
 const codeLanguage = 'javascript'
 const code = `const Jarvis = require('jarvis-ai');
