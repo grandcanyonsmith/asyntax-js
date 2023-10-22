@@ -35,4 +35,4 @@ This shift will require new skills and approaches. Prompt engineers will need to
 
 In conclusion, while prompt engineering is currently a challenging field, it holds great promise for the future. As AI models become more sophisticated, prompt engineering will play a crucial role in harnessing their full potential.
 
-#END
+For example, consider a prompt from 2018: "Make me a Python script that will print hello world". Now, compare this with a potential prompt from 2024: "Generate a Python script that will send my manager a message on slack and respond to his message asking what Kelly said in the email she sent me last week. Use my gmail api key, and my slack api key." This latter prompt requires several different sources of information, including the user's slack api key, their gmail api key, and an organizational chart to determine the identities of the manager and Kelly.
