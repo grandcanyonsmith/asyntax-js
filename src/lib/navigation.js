@@ -25,7 +25,7 @@ export const navigation = [
   {
     title: 'Advanced guides',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
+      { title: 'Handling Files', href: '/docs/writing-plugins' },
       { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
       { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
       { title: 'Testing', href: '/docs/testing' },
