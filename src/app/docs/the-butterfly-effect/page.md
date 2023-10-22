@@ -1,74 +1,47 @@
 ---
-title: The butterfly effect
+title: Reference Files in Jarvis AI
 nextjs:
   metadata:
-    title: The butterfly effect
-    description: Quidem magni aut exercitationem maxime rerum eos.
+    title: Reference Files in Jarvis AI
+    description: Learn how Jarvis AI helps you find reference files using vector data stores to create amazing prompts for websites, code, and documents.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+Jarvis AI is a powerful tool that uses vector data stores to help you find reference files. This feature allows you to create amazing prompts that can be used to generate websites, code, and documents.
 
----
+## Understanding Vector Data Stores
 
-## Quis vel iste dicta
+Vector data stores are a type of database designed for storing vector data. They are highly efficient and provide fast access to stored data. Jarvis AI uses these data stores to quickly find and retrieve reference files.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+### How Jarvis AI Uses Vector Data Stores
 
-### Et pariatur ab quas
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Jarvis AI uses vector data stores to quickly find and retrieve reference files. These files can be used as a basis for creating prompts that generate websites, code, and documents. The speed and efficiency of vector data stores make them an ideal choice for this task.
 
 ```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
+/** @type {import('@jarvisai/jarvis').referenceFiles} */
 export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
+  referenceFiles: 'vectorDataStores',
+  useCase: ['websites', 'code', 'documents'],
+  benefits: {
+    speed: true,
+    efficiency: true,
   },
 }
 ```
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+The above code snippet is an example of how Jarvis AI might use vector data stores to handle reference files.
 
-### Natus aspernatur iste
+### The Benefits of Using Jarvis AI
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+With Jarvis AI, you can quickly and easily find reference files using vector data stores. This allows you to create amazing prompts that can be used to generate websites, code, and documents. The speed and efficiency of Jarvis AI make it an ideal tool for this task.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+## Creating Prompts with Jarvis AI
 
----
+Creating prompts with Jarvis AI is a simple and straightforward process. You can use the reference files retrieved from the vector data stores to create prompts that generate websites, code, and documents.
 
-## Quos porro ut molestiae
+### The Power of Prompts
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Prompts are a powerful tool in Jarvis AI. They allow you to generate a wide range of content, from websites and code to documents and more. With the help of reference files from vector data stores, you can create highly effective prompts.
 
-### Voluptatem quas possimus
+In conclusion, Jarvis AI is a powerful tool that uses vector data stores to help you find reference files. These files can be used to create amazing prompts that generate a wide range of content. Whether you're creating a website, writing code, or drafting a document, Jarvis AI can help you get the job done quickly and efficiently.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+#END
