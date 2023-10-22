@@ -1,74 +1,47 @@
 ---
-title: CacheAdvance.revert()
+title: Instruct Mode
 nextjs:
   metadata:
-    title: CacheAdvance.revert()
-    description: Quidem magni aut exercitationem maxime rerum eos.
+    title: Instruct Mode
+    description: Unleashing the full potential of automation with unparalleled precision.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
-
----
-
-## Quis vel iste dicta
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Et pariatur ab quas
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Natus aspernatur iste
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Harnessing the power of artificial intelligence, we present a feature that transcends the conventional boundaries of automation. The Instruct Mode is not just a tool, but a companion that evolves with you, learning, adapting, and improving over time.
 
 ---
 
-## Quos porro ut molestiae
+## The Power of Self-Improvement
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+The Instruct Mode is designed to be a self-sustaining system, capable of introspection and self-improvement. It continuously scrutinizes its own performance, identifies areas of improvement, and refines its own algorithms. This iterative process of self-enhancement ensures that the system is always at its peak performance.
 
-### Voluptatem quas possimus
+### The Iterative Process
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+The Instruct Mode operates on a cycle of continuous improvement. It reads the file contents of the target file, evaluates its own performance, and then rewrites its own file contents. This process is repeated, each time enhancing its own capabilities.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+The Instruct Mode will dutifully perform this action, each time emerging more refined and efficient.
 
-### Id vitae minima
+### The Evolution of AI
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+The Instruct Mode is a testament to the evolution of artificial intelligence. It is not just a tool that performs tasks, but a system that learns, adapts, and improves. It is a testament to the power of AI, and a glimpse into the future of automation.
 
 ---
 
-## Vitae laborum maiores
+## The Jarvis Advantage
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+The Instruct Mode is a feature of Jarvis, our AI software tool designed to assist in creating websites, code, and business documents. Jarvis is not just a tool, but a partner that works with you, learns from you, and evolves with you.
 
-### Corporis exercitationem
+### The Future of Automation
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+With the Instruct Mode, we are taking a step towards the future of automation. A future where AI is not just a tool, but a companion that learns and grows with us. A future where automation is not just about efficiency, but about evolution and improvement.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+---
 
-### Reprehenderit magni
+## Embrace the Future
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Join us in embracing the future of automation. Experience the power of AI that learns, adapts, and improves. Experience the Jarvis advantage.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+### The Power of AI
+
+Harness the power of AI with Jarvis. Let the Instruct Mode take care of the mundane tasks, while you focus on what truly matters. Let Jarvis be your partner in success.
+
+Experience the future of automation. Experience Jarvis.
