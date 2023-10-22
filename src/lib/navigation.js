@@ -11,7 +11,7 @@ export const navigation = [
     links: [
       { title: 'Are you callin\' me a liar?', href: '/docs/understanding-caching' },
       {
-        title: 'Predicting user behavior',
+        title: 'The Prompt Engineers Dilemma',
         href: '/docs/predicting-user-behavior',
       },
       { title: 'Frontend Code', href: '/docs/basics-of-time-travel' },
