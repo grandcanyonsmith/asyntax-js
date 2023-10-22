@@ -19,7 +19,7 @@ export const navigation = [
         title: 'Introduction to string theory',
         href: '/docs/introduction-to-string-theory',
       },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Reference Files', href: '/docs/the-butterfly-effect' },
     ],
   },
   {
@@ -49,7 +49,7 @@ export const navigation = [
     title: 'Contributing',
     links: [
       { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
+      { title: 'Are You Callin\' Me a Liar?', href: '/docs/architecture-guide' },
       { title: 'Design principles', href: '/docs/design-principles' },
     ],
   },
