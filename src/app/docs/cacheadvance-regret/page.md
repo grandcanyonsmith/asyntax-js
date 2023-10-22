@@ -16,7 +16,7 @@ The Copilot Mode is designed to be a self-sustaining system, capable of introspe
 
 ### The Iterative Process
 
-The Copilot Mode operates on a cycle of continuous improvement. It reads the file contents of the target file, evaluates its own performance, and then rewrites its own file contents. This process is repeated for a specified number of iterations, each time enhancing its own capabilities.
+The Copilot Mode operates on a cycle of continuous improvement. It reads the file contents of the target file, evaluates its own performance, and then rewrites its own file contents. This process is repeated, each time enhancing its own capabilities.
 
 ```js
 /** @type {import('@tailwindlabs/lorem').ipsum} */
@@ -29,7 +29,7 @@ export default {
 }
 ```
 
-The number of iterations is customizable, giving you the flexibility to determine the extent of the system's self-improvement. Whether you set the iterations to 10 or 100, the Copilot Mode will dutifully perform this action, each time emerging more refined and efficient.
+The Copilot Mode will dutifully perform this action, each time emerging more refined and efficient.
 
 ### The Evolution of AI
 
@@ -56,5 +56,3 @@ Join us in embracing the future of automation. Experience the power of AI that l
 Harness the power of AI with Jarvis. Let the Copilot Mode take care of the mundane tasks, while you focus on what truly matters. Let Jarvis be your partner in success.
 
 Experience the future of automation. Experience Jarvis.
-
-#END
