@@ -9,14 +9,14 @@ export const navigation = [
   {
     title: 'Core concepts',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: 'Are you callin\' me a liar?', href: '/docs/understanding-caching' },
       {
         title: 'Predicting user behavior',
         href: '/docs/predicting-user-behavior',
       },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
+      { title: 'Frontend Code', href: '/docs/basics-of-time-travel' },
       {
-        title: 'Introduction to string theory',
+        title: 'Backend Code',
         href: '/docs/introduction-to-string-theory',
       },
       { title: 'Reference Files', href: '/docs/the-butterfly-effect' },
