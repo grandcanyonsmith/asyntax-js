@@ -7,8 +7,10 @@ import { Dialog } from '@headlessui/react'
 
 import { Logomark } from '@/components/Logo'
 import { Navigation } from '@/components/Navigation'
-
+import { Dropdown } from '@/components/Dropdown'
+import { SelectFileDropdown } from '@/components/SelectFileDropdown'
 function MenuIcon(props) {
+  
   return (
     <svg
       aria-hidden="true"
@@ -21,6 +23,16 @@ function MenuIcon(props) {
       <path d="M4 7h16M4 12h16M4 17h16" />
     </svg>
   )
+}
+function ParentComponent() {
+  const [selectedRepo, setSelectedRepo] = useState(null);
+
+  return (
+    <div>
+      <Dropdown selectedRepo={selectedRepo} setSelectedRepo={setSelectedRepo} />
+      <SelectFileDropdown selectedRepo={selectedRepo} />
+    </div>
+  );
 }
 
 function CloseIcon(props) {
@@ -52,6 +64,9 @@ function CloseOnNavigation({ close }) {
 export function MobileNavigation() {
   let [isOpen, setIsOpen] = useState(false)
   let close = useCallback(() => setIsOpen(false), [setIsOpen])
+  const [repoFiles, setRepoFiles] = useState([]);
+  const [selected, setSelected] = useState(null);
+  const [selectedRepo, setSelectedRepo] = useState(null);
 
   function onLinkClick(event) {
     let link = event.currentTarget
@@ -91,6 +106,8 @@ export function MobileNavigation() {
             >
               <CloseIcon className="h-6 w-6 stroke-slate-500" />
             </button>
+            <Dropdown selectedRepo={selectedRepo} setSelectedRepo={setSelectedRepo} />
+      <SelectFileDropdown selectedRepo={selectedRepo} />
             <Link href="/" className="ml-6" aria-label="Home page">
               <Logomark className="h-9 w-9" />
             </Link>

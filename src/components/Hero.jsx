@@ -16,7 +16,7 @@ let jarvis = new Jarvis();
 jarvis.createWebsite({
   name: 'My Business Website',
   theme: 'modern',
-  pages: ['Home', 'About', 'Contact']
+  pages: ['Home', 'Adbout', 'Contact']
 });`
 
 const tabs = [
@@ -57,11 +57,11 @@ export function Hero() {
                 Jarvis, your AI assistant, helps you create any business website or file. Its like GPT-3, but focused on making creating things with AI a better experience.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Get started</Button>
-                <Button href="/" variant="secondary">
-                  View on GitHub
-                </Button>
-              </div>
+  <Button href="/docs/CodeEditor">Get started</Button>
+  <Button href="/" variant="secondary">
+    View on GitHub
+  </Button>
+</div>
             </div>
           </div>
           <div className="relative lg:static xl:pl-10">
