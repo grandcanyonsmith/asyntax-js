@@ -1,58 +1,43 @@
----
-title: Copilot Mode
-nextjs:
-  metadata:
-    title: Copilot Mode
-    description: Unleashing the full potential of automation with unparalleled precision.
----
 
-Harnessing the power of artificial intelligence, we present a feature that transcends the conventional boundaries of automation. The Copilot Mode is not just a tool, but a companion that evolves with you, learning, adapting, and improving over time.
+// JSX file contents
 
----
+const CourseCreatorContent = () => {
+  return (
+    <div>
+      <h1>Monetize Your Knowledge</h1>
+      <p>Are you an expert in your field? Do you have a skill that others could benefit from? Learn how to monetize it by creating your own online course.</p>
 
-## The Power of Self-Improvement
+      <h2>Market Research Mastery</h2>
+      <p>What if you could identify your target audience without spending hours on market research?</p>
 
-The Copilot Mode is designed to be a self-sustaining system, capable of introspection and self-improvement. It continuously scrutinizes its own performance, identifies areas of improvement, and refines its own algorithms. This iterative process of self-enhancement ensures that the system is always at its peak performance.
+      <h2>Boost Your Conversion Rates</h2>
+      <p>You wanna know why traditional marketing strategies don’t work when you’re trying to sell an online course?</p>
 
-### The Iterative Process
+      <h2>Building a Following</h2>
+      <p>Worried about not having a large enough audience for your course? We've got you covered.</p>
 
-The Copilot Mode operates on a cycle of continuous improvement. It reads the file contents of the target file, evaluates its own performance, and then rewrites its own file contents. This process is repeated, each time enhancing its own capabilities.
+      <h2>Top Questions About Course Creation</h2>
+      <p>Here are the Top Questions I get about how to create and sell an online course.</p>
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+      <h2>Fast Track Your Course Creation</h2>
+      <p>5 ways to create your online course in a week.</p>
 
-The Copilot Mode will dutifully perform this action, each time emerging more refined and efficient.
+      <h2>Avoid These Mistakes</h2>
+      <p>3 things you should NEVER do if you want to successfully sell your online course.</p>
 
-### The Evolution of AI
+      <h2>Common Course Creation Mistakes</h2>
+      <p>The #1 online course creation mistake people make that keeps them from earning is not properly pricing their course.</p>
 
-The Copilot Mode is a testament to the evolution of artificial intelligence. It is not just a tool that performs tasks, but a system that learns, adapts, and improves. It is a testament to the power of AI, and a glimpse into the future of automation.
+      <h2>Beginner's Queries</h2>
+      <p>Here’s the top 5 questions I hear beginner course creators asking.</p>
 
----
+      <h2>Expert Secrets</h2>
+      <p>A college professor reveals little known trick used by successful online educators.</p>
 
-## The Jarvis Advantage
+      <h2>Success Without Stress</h2>
+      <p>Here’s how new course creators are earning without the stress of traditional teaching.</p>
+    </div>
+  );
+};
 
-The Copilot Mode is a feature of Jarvis, our AI software tool designed to assist in creating websites, code, and business documents. Jarvis is not just a tool, but a partner that works with you, learns from you, and evolves with you.
-
-### The Future of Automation
-
-With the Copilot Mode, we are taking a step towards the future of automation. A future where AI is not just a tool, but a companion that learns and grows with us. A future where automation is not just about efficiency, but about evolution and improvement.
-
----
-
-## Embrace the Future
-
-Join us in embracing the future of automation. Experience the power of AI that learns, adapts, and improves. Experience the Jarvis advantage.
-
-### The Power of AI
-
-Harness the power of AI with Jarvis. Let the Copilot Mode take care of the mundane tasks, while you focus on what truly matters. Let Jarvis be your partner in success.
-
-Experience the future of automation. Experience Jarvis.
+export default CourseCreatorContent;
